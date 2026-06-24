@@ -47,17 +47,10 @@ I'm especially interested in mobile games, Meta Quest / XR prototypes, polished 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=besarabdementij1&show_icons=true&hide_border=true&theme=transparent" alt="Dementiy Besarab GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besarabdementij1&layout=compact&hide_border=true&theme=transparent" alt="Dementiy Besarab top languages" />
-</p>
-
 ## GitHub Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/besarabdementij1/besarabdementij1/output/snake/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/besarabdementij1/besarabdementij1/output/snake/light.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/besarabdementij1/besarabdementij1/output/snake/light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parazzzi/Parazzzi/output/snake/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parazzzi/Parazzzi/output/snake/light.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Parazzzi/Parazzzi/output/snake/light.svg" />
 </picture>
