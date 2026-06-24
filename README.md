@@ -47,10 +47,8 @@ I'm especially interested in mobile games, Meta Quest / XR prototypes, polished 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## GitHub Snake
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parazzzi/Parazzzi/output/snake/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parazzzi/Parazzzi/output/snake/light.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Parazzzi/Parazzzi/output/snake/light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parazzzi/Parazzzi/output/snake/dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parazzzi/Parazzzi/output/snake/light.svg?v=2" />
+  <img alt="" src="https://raw.githubusercontent.com/Parazzzi/Parazzzi/output/snake/light.svg?v=2" />
 </picture>
