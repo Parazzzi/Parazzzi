@@ -18,13 +18,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Parazzzi
-          outputs: |
-            dist/snake/light.svg
-            dist/snake/dark.svg?palette=github-dark
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate random snake SVGs
+        run: node .github/scripts/generate-snake.mjs
+        env:
+          SNAKE_SEED: ${{ github.run_id }}-${{ github.run_attempt }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
